@@ -4,3 +4,4 @@ name: Charle's Blog
 github: Chao-Zeng
 author: zengchao
 email: zengchao_cool@126.com
+permalink: /blog/:year/:month/:day/:title
