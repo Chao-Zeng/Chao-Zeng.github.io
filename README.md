@@ -1,4 +1,4 @@
 Chao-Zeng Blog Data
 ====================
 
-Please jump to my <a href="http://chao-zeng.github.io">blog</a> to see my blog.
+Please jump to <a href="http://chao-zeng.github.io">my blog</a> to see my blog.
