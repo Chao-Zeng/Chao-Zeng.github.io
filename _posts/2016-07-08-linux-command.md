@@ -4,6 +4,7 @@ title: "linux command"
 date: 2016-07-08
 ---
 
+linux command
 #linux command
 
 ##system management command
