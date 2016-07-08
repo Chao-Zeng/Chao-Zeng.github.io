@@ -11,3 +11,7 @@ date: 2016-07-08
 ## common comand
 
 ### grep
+The general synopsis of the grep command line is
+```shell
+grep options pattern input_file_names
+```
