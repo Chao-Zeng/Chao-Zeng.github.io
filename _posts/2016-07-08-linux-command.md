@@ -12,6 +12,7 @@ date: 2016-07-08
 
 ### grep
 The general synopsis of the grep command line is
-```shell
+
+```Shell
 grep options pattern input_file_names
 ```
